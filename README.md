@@ -7,7 +7,7 @@ TIC-TAC-TOE GAME
 
 |Code Quality Score| Code Grade |  
 | ------------- | ------------- |
-| ![Code Quality Score](https://www.code-inspector.com/project/27579/score/svg)  | ![Code Grade](https://www.code-inspector.com/project/27579/status/svg) |
+| ![Code Quality Score](https://www.code-inspector.com/project/27579/score/svg)| ![Code Grade](https://www.code-inspector.com/project/27579/status/svg)|
 
 
 
