@@ -21,8 +21,8 @@ PROJECT=main.c
 
 
 	
-execute:
+all:
 	gcc $(INC) $(SRC) $(PROJECT) -o all.exe
-run: execute
+run: all
 	./all.exe
 
